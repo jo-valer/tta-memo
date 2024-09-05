@@ -16,4 +16,4 @@ We further explore other techniques to improve the performance, either modifying
 - Different **composition of augmentations**
 
 ## Full report
-The report (a self-contained notebook with code and text) can be read [here](https://github.com/jo-valer/DL-Project/blob/main/report.ipynb).
+The report (a self-contained notebook with code and text) can be read [here](https://github.com/jo-valer/tta-memo/blob/main/report.ipynb).
